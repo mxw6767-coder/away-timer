@@ -10,7 +10,7 @@ export function TitleBar({ alwaysOnTop, onToggleAlwaysOnTop }: TitleBarProps) {
     <div className="title-bar">
       <div className="title-bar__drag">
         <span className="title-bar__icon">⏱</span>
-        <span className="title-bar__title">Away Timer</span>
+        <span className="title-bar__title">Away Timer 🚀</span>
       </div>
       <div className="title-bar__controls">
         <button
