@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.3] - "Auto-Updater Fix"
+
+### Fixed
+- Fixed an issue where the GitHub Actions release pipeline was failing to upload `latest.yml`, which was causing the auto-updater to fail to detect new versions.
+
 ## [1.1.2] - "Telemetry & Insights Update"
 
 ### Added
